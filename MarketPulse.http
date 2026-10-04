@@ -1,0 +1,6 @@
+@MarketPulse_HostAddress = http://localhost:5095
+
+GET {{MarketPulse_HostAddress}}/marketpulse/
+Accept: application/json
+
+###
